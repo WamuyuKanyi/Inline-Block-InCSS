@@ -1,0 +1,11 @@
+/* inline block 
+If you want your top bottom margin to be respected we use inline block property
+*/
+
+a{
+  font-size: 60px;
+  background: red;
+  margin: 60px;
+  display: inline-block;
+
+}
